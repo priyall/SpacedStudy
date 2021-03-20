@@ -17,5 +17,7 @@ First, ensure you either have wifi or data connection on your device and ensure 
 
 <h3> Technology User </h3>
 HTML, CSS, JavaScript, Google Maps API : Maps JavaScript API by Google, Places API by Google
+<br>
+
 
 Contributers <a href="https://github.com/priyall">@priyall</a> <a href="https://github.com/khushij12">@khushij12</a><a href="https://github.com/hetavv"> @hetavv</a>
