@@ -1,1 +1,2 @@
-# VIT_Hackathon
+# SpacedStudy
+Find the best location for effective studying!
