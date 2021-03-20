@@ -1,3 +1,4 @@
+
 <h2> SpacedStudy </h2>
 
 A really important part about education that a lot of people miss out on is the environment and infrasrtructure.
