@@ -7,3 +7,12 @@ SpacedStudy is a web application targeted towards students who dont have conduci
 
 This solves the problem that a lot of cafes dont allow students to sit for few hours without any distractions and free wifi. The cafes which partner with SpacedStudy will work on monthly fee basis which would be covered with premium membership benefits.
 
+<h3>How it works</h3>
+
+First, ensure you either have wifi or data connection on your device and ensure location services are enabled
+
+1. Open the webpage
+2. Tap the pin where you'd like to find study spots near.
+3. Click on the name of the place to know more details and the distance and the path.
+
+Contributers @priyall @Khushij12 @hetavv
