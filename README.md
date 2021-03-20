@@ -16,7 +16,7 @@ First, ensure you either have wifi or data connection on your device and ensure 
 3. Click on the name of the place to know more details and the distance and the path.
 
 <h3> Technology Used </h3>
-HTML, CSS, JavaScript, Google Maps API : Maps JavaScript API by Google, Places API by Google
+HTML, CSS, JavaScript, Google Maps API : Maps JavaScript API by Google, Places API by Google   
 
-<p>
-Contributers <a href="https://github.com/priyall">@priyall</a> <a href="https://github.com/khushij12">@khushij12</a><a href="https://github.com/hetavv"> @hetavv</a>
+<h3>Contributers </h3>
+<a href="https://github.com/priyall">@priyall</a> <a href="https://github.com/khushij12"> @khushij12</a><a href="https://github.com/hetavv"> @hetavv</a>
